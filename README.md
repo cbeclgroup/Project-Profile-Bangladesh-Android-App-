@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for the Project Profile Bangladesh And
 
 ## Overview
 
-[Project Profile Bangladesh](https://www.projectprofilebd.com/)specializes in supplying industrial machinery and equipment, diesel generators, elevators, and providing industrial construction services in Bangladesh. With this Android app, users can easily explore the wide range of offerings and get in touch with the team for inquiries and assistance.
+[Project Profile Bangladesh](https://www.projectprofilebd.com/) specializes in supplying industrial machinery and equipment, diesel generators, elevators, and providing industrial construction services in Bangladesh. With this Android app, users can easily explore the wide range of offerings and get in touch with the team for inquiries and assistance.
 
 ## Features
 
